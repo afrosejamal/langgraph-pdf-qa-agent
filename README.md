@@ -11,22 +11,7 @@ A Retrieval-Augmented Generation (RAG) agent that answers natural-language quest
 
 ---
 
-## 📑 Table of Contents
 
-- [Overview](#-overview)
-- [Demo](#-demo)
-- [Screenshots](#-screenshots)
-- [Features](#-features)
-- [Architecture](#️-architecture)
-- [Tech Stack](#️-tech-stack)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [API Keys & Security](#-api-keys--security)
-- [How the LangGraph Workflow Works](#-how-the-langgraph-workflow-works)
-- [Future Improvements](#️-possible-future-improvements)
-- [License](#-license)
-
----
 
 ## 🧭 Overview
 
@@ -36,18 +21,16 @@ This project demonstrates a practical, end-to-end **RAG (Retrieval-Augmented Gen
 
 ---
 
-## 🎥 Demo
 
-<!-- Paste the auto-generated link GitHub gives you after dragging LangGraph_demo.mp4
-     into the web README editor. It will look like:
-     https://github.com/<user>/<repo>/assets/xxxxxxx/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx.mp4
--->
+# 🎥 Demo
 
-https://PASTE_VIDEO_LINK_HERE
+### 📹 Project Walkthrough
 
-*(Click to watch the full walkthrough — uploading a PDF, asking questions, and viewing retrieved evidence in action.)*
+A complete walkthrough of the application is included in this repository.
 
----
+**Demo Video:** [`LangGraph_demo.mp4`](./LangGraph_demo.mp4)
+
+
 
 ## 🖼️ Screenshots
 
@@ -80,8 +63,7 @@ https://PASTE_VIDEO_LINK_HERE
   </tr>
 </table>
 
-> 📝 If a caption above doesn't match what that screenshot actually shows, just swap the two filenames around, or edit the caption text — no code changes needed.
-
+> 
 ---
 
 ## ✨ Features
