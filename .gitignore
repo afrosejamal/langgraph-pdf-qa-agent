@@ -1,0 +1,29 @@
+# Generated app data — recreated automatically when the app runs
+chroma_db/
+chat_history.jsonl
+
+# Secrets — never commit real API keys or secrets
+.streamlit/secrets.toml
+*.env
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.Python
+build/
+dist/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
