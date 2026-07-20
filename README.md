@@ -1,3 +1,5 @@
+
+
 # 📖 DocIntel — PDF Question Answering Agent
 
 A Retrieval-Augmented Generation (RAG) agent that answers natural-language questions about any PDF document, built with **LangGraph** for workflow orchestration, **ChromaDB** for vector search, and **Groq (Llama 3.1)** for fast, free LLM inference — all wrapped in a **Streamlit** web app.
